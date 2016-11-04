@@ -1,12 +1,13 @@
 1. Enter the classroom
 2. Clone the file using the command: git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo
-3.Create the text file called file.txt
-4. Edit the text file.
-5. Save the text file into your repository. 
-6. Use git add by using the command: git add <file name>
-7. Use git commit by using the command: git commit -m "Commit Comment" (write what you did to the document.)
-8. Save your work into github.com by using the command: git push
-9. Enter your username for github.com
-10. Enter your password for github.com
-11. Leave the classroom. 
-
+3.Get into your repository with the command: cd <repository name>
+4.Create the text file called file.txt by using the command: gedit
+5. Edit the text file.
+6. Save the text file into your repository. 
+7. Use git add by using the command: git add <file name>
+8. Use git commit by using the command: git commit -m "Commit Comment" (write what you did to the document.)
+9. Save your work into github.com by using the command: git push
+10. Enter your username for github.com
+11. Enter your password for github.com
+12. Leave the classroom. 
+git 
