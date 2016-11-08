@@ -12,3 +12,5 @@ git add <file name>
 git commit -m "Commit Comment"
 git push
 sftp Commands
+python -m SimpleHTTPServer - Start the development server
+
