@@ -1,9 +1,60 @@
 html {
 	color:navy;
-	font-size:10px;
-	background-color:#00FFFF;
+	font-size:20px;
+	background-color:navy;
+}
 
-	body {
-		head{
-			color:orange;
+	h1{
+	color:orange;
+	font-size:40px;
+	border-color:#7FFFD4;
+	border-style:solid; 
+	font-family:Helvetica;
+	background:linear-gradient(black,white);
+
+}
+
+	h2{
+	color:red;
+	font-size:30px;
+	border-color:#7FFFD4;
+	border-style:dotted;
+	font-family:arial;
+	border-width:10px;
+	border-right:red;
+	border-right-width:9px;
+	border-left:red;
+	border-left-width:9px;
+	border-top-width:3px;
+	background:linear-gradient(blue,aqua);
+
+		
+	
+
+
+}
+	p{
+	color:#7FFFD4;
+	font-size:23px;
+	border-color:red;
+	border:ridge #FF00FF 10px;
+	font-family:impact; 
+	font-style: italic;
+	text-decoration: underline;
+	border:2px solid red;
+	border-radius:12px;
+	
+}
+	<i class="glyphicon glyphicon-cloud"></i>
+	<i class="glyphicon glyphicon-remove"></i>
+	<i class="glyphicon glyphicon-user"></i>
+	<i class="glyphicon glyphicon-envelope"></i>
+	<i class="glyphicon glyphicon-thumbs-up"></i>
+	<br><br>
+
+}
+
+
+
+
 
