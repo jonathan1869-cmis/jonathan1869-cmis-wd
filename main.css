@@ -1,7 +1,10 @@
 html {
 	color:navy;
 	font-size:20px;
-	background-color:navy;
+	font-family:impact; 
+	background-image:url("http://www.stancenation.com/wp-content/uploads/2013/11/IMG_9838-6-copy.jpg");
+	background-position:fixed;
+	
 }
 
 	h1{
@@ -11,7 +14,10 @@ html {
 	border-style:solid; 
 	font-family:Helvetica;
 	background:linear-gradient(black,white);
-
+	text-shadow: 2px 2px #000000;
+	border-radius: 9px;
+	text-align:center;
+	box-shadow:10px 10px 5px #888888;
 }
 
 	h2{
@@ -27,7 +33,9 @@ html {
 	border-left-width:9px;
 	border-top-width:3px;
 	background:linear-gradient(blue,aqua);
-
+	text-shadow:2px 2px black;
+	border-radius: 9px
+	
 		
 	
 
@@ -43,16 +51,15 @@ html {
 	text-decoration: underline;
 	border:2px solid red;
 	border-radius:12px;
+	text-shadow: 2px 2px red;
+	word-spacing:3px;
+	letter-spacing:0.5px;
 	
-}
-	<i class="glyphicon glyphicon-cloud"></i>
-	<i class="glyphicon glyphicon-remove"></i>
-	<i class="glyphicon glyphicon-user"></i>
-	<i class="glyphicon glyphicon-envelope"></i>
-	<i class="glyphicon glyphicon-thumbs-up"></i>
-	<br><br>
+
 
 }
+ 
+
 
 
 
