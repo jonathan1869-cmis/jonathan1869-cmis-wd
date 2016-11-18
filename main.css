@@ -1,8 +1,35 @@
+	/* color:
+	font-size:
+	border-color:
+	border-style:
+	font-family:
+	border-width:
+	border-right:
+	border-right-width:
+	border-left:
+	border-left-width:
+	border-top-width:
+	background:
+	text-shadow:
+	border-radius: 
+	margin: 
+	text-align:
+	margin-bottom:
+	outline:
+	padding: 
+	width:
+	height:
+	transform:translate
+	border-align: 
+	margin-right:
+	I learned background-image from Claudia and transflorm:translate from Young. 
+	*/
+
 html {
 	color:navy;
 	font-size:20px;
 	font-family:impact; 
-	background-image:url("http://www.stancenation.com/wp-content/uploads/2013/11/IMG_9838-6-copy.jpg");
+	background-image:url("http://pix.iemoji.com/images/emoji/apple/ios-9/256/smirking-face.png");
 	background-position:fixed;
 	
 }
@@ -18,6 +45,10 @@ html {
 	border-radius: 9px;
 	text-align:center;
 	box-shadow:10px 10px 5px #888888;
+	opacity: 0.8;
+	 text-transform: uppercase;
+
+
 }
 
 	h2{
@@ -34,7 +65,18 @@ html {
 	border-top-width:3px;
 	background:linear-gradient(blue,aqua);
 	text-shadow:2px 2px black;
-	border-radius: 9px
+	border-radius: 9px;
+	margin: 2cm 4cm 3cm 4cm;
+	text-align:center;
+	margin-bottom: 2cm;
+	outline: #00FF00 dotted thick;
+	padding: 5px 5px 5px 5px;
+	width:60%;
+	height:40%;
+	transform:translate(15%,40%);
+	border-align: center;
+	margin-right: 2cm;
+	
 	
 		
 	
@@ -54,6 +96,8 @@ html {
 	text-shadow: 2px 2px red;
 	word-spacing:3px;
 	letter-spacing:0.5px;
+	text-align:center;
+	 
 	
 
 
