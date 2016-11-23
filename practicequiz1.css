@@ -1,4 +1,5 @@
 html{
+	background-color:red;
 }
 
 h1{ 
@@ -6,6 +7,24 @@ h1{
 	background:green;
 	color:yellow;
 	font-style:italic;
-	border-bottom:yellow;
+	border-bottom:dashed;
+	border-bottom-width:5px;
+		
+}	
+h2 {	
+	color:blue;
+	border-color:yellow;
+	padding:10px;
+	font-family:"impact"; 
+	border-style:dashed;
+	font-style:italic;
+	padding:
+	font-weight:thin;
+
+}
+h3{
+	font-family: arial;
+	
+
 	
 
