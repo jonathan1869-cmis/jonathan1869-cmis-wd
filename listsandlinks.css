@@ -1,0 +1,32 @@
+html{
+	background-color:aqua;
+}
+
+h1{ 
+	font-family:arial;
+	background:green;
+	color:yellow;
+	font-style:italic;
+	border-bottom:dashed;
+	border-bottom-width:5px;
+		
+}	
+h2 {	
+	color:blue;
+	border-color:f#020003;
+	padding:10px;
+	font-family:"arial"; 
+	border-style:dashed;
+	font-style:italic;
+	padding:
+	font-weight:thin;
+
+}
+h3{
+	font-family: arial;
+	
+}
+	
+
+	
+
