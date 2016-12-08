@@ -1,0 +1,51 @@
+html{ background-color:red;
+}
+
+
+p {
+	color: yellow;
+	background-color:blue;
+}
+/* selects all p elements inside the main element */
+main {
+	color:black;
+	background-color:white;
+	
+}
+p{
+	color:black;
+	background-color:white;
+	text-decoration:underline;
+}
+/* selects all p elements inside the footer element */
+footer p{
+	color:white;
+	background-color:blue;
+	font-family:arial;
+	
+}
+/* selects all p elements inside the nav element */
+nav a {
+	color:yellow;
+	background-color:red;
+
+}
+
+/*selects the header element */
+header{
+	background-color:blue;
+	color:yellow;
+}
+
+/* selects all h1 AND h2 elements */
+h1{
+	color:yellow;	
+	font-family:impact;
+p{	
+	font-family:arial;
+}
+}
+
+h2{
+	font-family:Andale Mono;
+}
