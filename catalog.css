@@ -1,0 +1,39 @@
+html{
+	background-color:orange;
+}
+head,nav{
+	color:blue;
+
+}
+body{
+	color:blue;
+	border:100px;
+	border: dotted;
+}
+h1{ 
+	color:purple;
+	font-family:impact;
+	font-size:50px;
+	font-style:normal;
+	border:20px outset black;
+	border-style:groove;
+}
+h2{
+	font-family:impact;
+	letter-spacing:1px;
+}
+main{
+	border:20px red;
+	padding:5px,10px;
+	border-style: groove;
+	font-family: helvetica;
+}
+a{
+	color: black;
+	font-family:arial;
+
+}	
+article{
+	
+	border:20px ridge red;
+}
