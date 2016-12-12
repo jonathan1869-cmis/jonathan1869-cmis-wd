@@ -9,6 +9,7 @@ body{
 	color:blue;
 	border:100px;
 	border: dotted;
+	margin: 2cm 4cm 3cm 4cm;
 }
 h1{ 
 	color:purple;
@@ -24,7 +25,7 @@ h2{
 }
 main{
 	border:20px red;
-	padding:5px,10px;
+	padding:5px 10px 5px 10px;
 	border-style: groove;
 	font-family: helvetica;
 }
@@ -37,3 +38,10 @@ article{
 	
 	border:20px ridge red;
 }
+
+main {
+    width: 20cm;
+    height: 15cm;
+    overflow: scroll;
+}
+
