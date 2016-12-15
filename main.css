@@ -22,6 +22,8 @@
 	transform:translate
 	border-align: 
 	margin-right:
+	background-position:
+	text-decoration:
 	I learned background-image from Claudia and transflorm:translate from Young. 
 	*/
 
@@ -105,8 +107,14 @@ header{ color: orange;
 
 }
  
-
-
+body{ color:red;
+}
+main{ color:blue;
+}
+nav{ border:dotted;
+}
+footer{color:blue;
+}
 
 
 
